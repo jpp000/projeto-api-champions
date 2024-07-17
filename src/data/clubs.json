@@ -1,0 +1,130 @@
+[
+    {
+        "id": 1,
+        "name": "Real Madrid"
+    },
+    {
+        "id": 2,
+        "name": "Barcelona"
+    },
+    {
+        "id": 3,
+        "name": "Manchester City"
+    },
+    {
+        "id": 4,
+        "name": "Paris Saint-Germain"
+    },
+    {
+        "id": 5,
+        "name": "Bayern Munich"
+    },
+    {
+        "id": 6,
+        "name": "Chelsea"
+    },
+    {
+        "id": 7,
+        "name": "Liverpool"
+    },
+    {
+        "id": 8,
+        "name": "Atletico Madrid"
+    },
+    {
+        "id": 9,
+        "name": "Juventus"
+    },
+    {
+        "id": 10,
+        "name": "Inter Milan"
+    },
+    {
+        "id": 11,
+        "name": "AC Milan"
+    },
+    {
+        "id": 12,
+        "name": "Manchester United"
+    },
+    {
+        "id": 13,
+        "name": "Borussia Dortmund"
+    },
+    {
+        "id": 14,
+        "name": "Ajax"
+    },
+    {
+        "id": 15,
+        "name": "RB Leipzig"
+    },
+    {
+        "id": 16,
+        "name": "Sevilla"
+    },
+    {
+        "id": 17,
+        "name": "Porto"
+    },
+    {
+        "id": 18,
+        "name": "Benfica"
+    },
+    {
+        "id": 19,
+        "name": "Shakhtar Donetsk"
+    },
+    {
+        "id": 20,
+        "name": "Zenit Saint Petersburg"
+    },
+    {
+        "id": 21,
+        "name": "Lyon"
+    },
+    {
+        "id": 22,
+        "name": "Atalanta"
+    },
+    {
+        "id": 23,
+        "name": "Villarreal"
+    },
+    {
+        "id": 24,
+        "name": "Lazio"
+    },
+    {
+        "id": 25,
+        "name": "Salzburg"
+    },
+    {
+        "id": 26,
+        "name": "Club Brugge"
+    },
+    {
+        "id": 27,
+        "name": "Dynamo Kyiv"
+    },
+    {
+        "id": 28,
+        "name": "Olympiacos"
+    },
+    {
+        "id": 29,
+        "name": "Galatasaray"
+    },
+    {
+        "id": 30,
+        "name": "Besiktas"
+    },
+    {
+        "id": 31,
+        "name": "Celtic"
+    },
+    {
+        "id": 32,
+        "name": "Rangers"
+    }
+]
